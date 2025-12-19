@@ -1,6 +1,4 @@
 # COCO-PUF-Signal-Race-Prediction
-Attached are submissions for the CS771 - Introduction to Machine Learning - Assignment Submissions for the 2023-24 Summer Offering.
-
 Reports for the respective assignments are named "main.pdf" in the "code_assnX" folders respectively. Problems and respective codes of solutions are present in folders "assnX" respectively.
 
 Graded Code Comment - Assn 1: [MAX MARKS=35] Grading scheme for code: Dimensionality dd: dd < 100 (5 marks), 100 <= dd < 1000 (4 marks), dd >= 1000 (3 marks) Train time tt (in sec): tt < 1 (10 marks), 1 <= tt < 2 (9 marks), 2 <= tt < 10 (8 marks), 10 >= tt (7 marks) Map time mt (in sec): mt < 0.1 (10 marks), 0.1 <= mt < 0.5 (9 marks), 0.5 <= mt < 1.0 (8 marks), mt >= 1.0 (7 marks) Error rate for Response0 e0: e0 < 0.05 (5 marks), 0.05 <= e0 < 0.1 (4 marks), e0 > 0.1 (3 marks) Error rate for Response1 e1: e1 < 0.05 (5 marks), 0.05 <= e1 < 0.1 (4 marks), e1 > 0.1 (3 marks)
